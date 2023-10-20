@@ -1,0 +1,1 @@
+Os branchs são cadeias que você pode colocar a parte, para poder fazer testes, receber informações de pessoas de fora
